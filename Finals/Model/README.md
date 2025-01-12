@@ -25,7 +25,7 @@ If you would like get in touch, just drop us an email to [contact@lukasruff.com]
 
 ## The need for semi-supervised anomaly detection
 
-![fig1](imgs/fig1.png?raw=true "fig1")
+![Figure 1](imgs/fig1.png?raw=true "Figure 1")
 
 
 ## Installation
