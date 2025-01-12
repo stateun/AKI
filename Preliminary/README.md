@@ -22,8 +22,6 @@
 ## Preprocessing Folders
 1. **ICU Folder**: Preprocessing of clinical data from the ICU system.
 2. **Hosp Module**: Preprocessing of EHR (Electronic Health Records) data throughout the hospital.
-3. **Model**:  
-   - **DeepSAD** + **Fair Loss**
 
 ## Limitation
 While we treated AKI as an outlier in the MIMIC-IV dataset and built an anomaly detection model, we recognized that the **complex nature of real clinical data** (e.g., high dimensionality, time-series characteristics, mismatched test intervals) necessitates **further approaches to improve model performance**.
