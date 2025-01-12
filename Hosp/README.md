@@ -1,4 +1,4 @@
-# MIMIC-IV Hosp Datasets
+# MIMIC-IV Hosp Preprocessing Files
 
 Below are other tables available in the MIMIC-IV database along with brief descriptions. Tables not directly relevant to our AKI prediction workflow were excluded from our preprocessing.
 
