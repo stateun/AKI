@@ -1,7 +1,5 @@
 # Dataton for AKI Prediction in SNUBH
 
-**Period:** 2024.11 SEP ~ 2024.23 OCT
-
 ## Dataset
 ### MIMIC-IV
 - **[MIMIC-IV](https://physionet.org/content/mimiciv/2.2/)** is a large-scale, de-identified electronic health records (EHR) dataset, collected from the Beth Israel Deaconess Medical Center in Boston.  
