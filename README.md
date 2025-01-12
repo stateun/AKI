@@ -1,5 +1,7 @@
 # Acute Kidney Injury Prediction Model Repository
 
+**Period:** 2024.11 SEP ~ 2024.23 OCT
+
 This repository contains the code developed during the preliminary and final rounds of the **Acute Kidney Injury (AKI) Data Science Competition**, organized by Seoul National University Bundang Hospital.
 
 ## Competition Theme
